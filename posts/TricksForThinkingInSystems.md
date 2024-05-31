@@ -14,3 +14,4 @@ layout: layouts/post.njk
 For the majority of game developers and their games: 
 
 no.
+

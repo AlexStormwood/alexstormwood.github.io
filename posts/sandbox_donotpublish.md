@@ -42,3 +42,16 @@ There's a plugin for that!
 	C -->|Yes| D[NICE GRAPHS];
 	C -->|No| E[NO GRAPHS];
 ```
+
+
+## Additional Image Content Tests
+
+Aaaaaaaaa!
+<!-- ![Some photo of Darling Harbour.](/img/MinusOneDayPhotos/20231203_105714.png) -->
+
+<img src="/img/MinusOneDayPhotos/20231203_105714.png"  alt="HTML img" />
+
+
+And another photo:
+
+![Another photo of Darling Harbour.](/img/MinusOneDayPhotos/20231203_110929.jpg)

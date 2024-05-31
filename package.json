@@ -60,6 +60,7 @@
     "markdown-it-image-figures": "^2.1.1",
     "mocha": "^10.1.0",
     "phin": "^3.5.0",
+    "photoswipe": "^5.4.4",
     "purge-from-html": "^1.0.3",
     "purgecss": "^4.0.3",
     "querystring": "^0.2.0",
